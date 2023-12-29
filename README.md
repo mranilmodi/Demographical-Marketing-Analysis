@@ -1,53 +1,53 @@
-![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/7c76be29-8111-4ba5-b53b-dcd1f4635630)# Demographical-Marketing-Analysis.
+# Demographical-Marketing-Analysis.
 In Demographical Marketing Analysis we havr3 3 Tables
 1) = Customer Address
 2) = Transcation table
 3) = Customers Demographical table
 
-   in this Analysis. we clean all datasteset.
-   and create New RFM Tables for find CUstomers behaviours.
+in this Analysis. we clean all datasteset.
+and create New RFM Tables for find CUstomers behaviours.
+And After the cleaning the data than we found importants information following-
 
-   And After the cleaning the data than we found importants information following-
+1) Profit by Age Group
 
-   1) Profit by Age Group
-    ![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/d5e3307d-3f2c-42a2-9f65-11095d8cc63e)
+![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/d5e3307d-3f2c-42a2-9f65-11095d8cc63e)
 
-     After this Analysed , we found that-
-    a) Most of the profit generate by age group 40 -50
-    b) Highest profitable age group followed by 50-60, 30-40 and 60-70
-    c) HIghest number customer are female than male
+After this Analysed , we found that-
+a) Most of the profit generate by age group 40 -50
+b) Highest profitable age group followed by 50-60, 30-40 and 60-70
+c) HIghest number customer are female than male
 
-    ![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/91f0c205-9bc5-4a03-aaae-fc41a3a8dd50)
+![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/91f0c205-9bc5-4a03-aaae-fc41a3a8dd50)
 
-   2) New Customer vs Old Customers
-      ![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/e3cf1a09-e016-4500-8fcc-c53d9f56090b)
+2) New Customer vs Old Customers
+![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/e3cf1a09-e016-4500-8fcc-c53d9f56090b)
 
-       AFter The Analysis Both the Table we found something like Highest Age Customer and lowest age customer
-    who will helped in targeting marketing 
+AFter The Analysis Both the Table we found something like Highest Age Customer and lowest age customer
+who will helped in targeting marketing 
     
-    a) Highest Customer Age lies between 40-50 in Old and New Customers Dataset.
-    b) lowest Customer Age lies 80 +, and under 20 in Both dataset.
-    c) New Customer lies with highest age bracket is 50-60, 60-70
-    d) Old Customer lies with Highest age bracket in 50-60, 30-40
+a) Highest Customer Age lies between 40-50 in Old and New Customers Dataset.
+b) lowest Customer Age lies 80 +, and under 20 in Both dataset.
+c) New Customer lies with highest age bracket is 50-60, 60-70
+d) Old Customer lies with Highest age bracket in 50-60, 30-40
 
-   3) Male vs Female Past 3 year Bike Purchase
-      ![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/d0d20082-233a-4a93-b6fa-5f49513a1d0c)
+3) Male vs Female Past 3 year Bike Purchase
+![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/d0d20082-233a-4a93-b6fa-5f49513a1d0c)
 
-     AFter the Analysis we found that
-    a) Past 3 yaer Almost 50.5 % buyer are woman and 49.5% are male buyer
-    b) Number of Female round 10000 more as compare to Male,
-    c) In Majority Female is most Customer for bikes
+AFter the Analysis we found that
+a) Past 3 yaer Almost 50.5 % buyer are woman and 49.5% are male buyer
+b) Number of Female round 10000 more as compare to Male,
+c) In Majority Female is most Customer for bikes
 
-   4) Job Industy Customer Distribiution
-       ![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/ae188f60-ce15-48a8-8c93-7229bc4e4ca9)
-       ![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/0c0a8adf-8d7a-4f00-95bb-8a64a5de95d7)
+4) Job Industy Customer Distribiution
+![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/ae188f60-ce15-48a8-8c93-7229bc4e4ca9)
+![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/0c0a8adf-8d7a-4f00-95bb-8a64a5de95d7)
 
-      According Dataset we Analysis New customer and old Customer-
-    a) Among a Old Customer we Analysed that Most of the sales comes from having job
-       in ( Manufacturing, Finance and Health)
+According Dataset we Analysis New customer and old Customer-
+a) Among a Old Customer we Analysed that Most of the sales comes from having job
+in ( Manufacturing, Finance and Health)
     
-    b) and New Customer also follow the trend like Old customer;
-    c) lowes sales comes from customer having job title (telecommunication, IT, Agriculter)
+b) and New Customer also follow the trend like Old customer;
+c) lowes sales comes from customer having job title (telecommunication, IT, Agriculter)
 
    5) Wealth Segments by Age Groups
       ![image](https://github.com/mranilmodi/Demographical-Marketing-Analysis/assets/152859011/b0cdbebd-c3c1-4997-92e1-090098a43db3)
